@@ -1,0 +1,51 @@
+
+.container{
+  margin-top: 10px;
+}
+
+button{
+  float: left;
+}
+
+.title{
+      margin-left: -96%;
+}
+
+.description{
+   margin-left: -92%;
+}
+
+.priority{
+   margin-left: -95%;
+}
+.due_date{
+    margin-left: -94%;
+}
+.completed{
+  margin-left: -93%;
+}
+#completed{
+      float: left;
+    width: 30px;
+}
+
+
+#ecompleted{
+  float: left;
+    width: 45px;
+}
+
+#alertContainer{
+
+}
+
+#TaskTable{
+    margin-bottom: 10px;
+}
+.button-spacing {
+    margin-right: 10px; 
+}
+
+#taskStatus{
+       margin-left: 86px;
+}
